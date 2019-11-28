@@ -4,4 +4,4 @@ def sub(a,b):
     return a - b
 print "lalalalalalala"
 print "hehe"
-print "kakakaka"
+print "gagaga"
